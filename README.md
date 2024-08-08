@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Balanz.
+- 🔭 I’m currently working like freelancer.
 - 🌱 I’m currently learning Iot k8s autodict
 - 👯 I’m looking to collaborate on niot
 - 🤔 I’m looking for help with niot
